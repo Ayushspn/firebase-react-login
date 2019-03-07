@@ -1,0 +1,35 @@
+
+.submitbutton{
+    background-color: cadetblue;
+}
+.tableHeight{
+    height: 200px;
+    overflow-y: scroll;
+    display: inherit;
+}
+.marginButton{
+    margin-right: 10px;
+}
+
+.searchIcon{
+    padding: 7px;
+    background-color: cadetblue;
+    cursor: pointer;
+}
+
+.closeIcon{
+    position: absolute;
+    color : cadetblue;
+    top: 5px;
+    right: 5px;
+    cursor: pointer;
+}
+
+.searhctxtBox{
+    margin-bottom: 20px;
+}
+
+.userNameMessage{
+    text-align: left;
+    color : cadetblue;
+}

@@ -1,0 +1,10 @@
+
+.navbar{
+    background-color: cadetblue;
+    text-align: left;
+}
+
+.navbar :hover{
+    background-color: cadetblue !important;
+    text-align: left;
+}

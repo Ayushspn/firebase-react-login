@@ -1,5 +1,14 @@
 .App {
   text-align: center;
+ 
+}
+
+.row---margin{
+  margin: 0;
+}
+
+.signup-padding{
+  padding: 100px;
 }
 
 .App-logo {
